@@ -1,9 +1,7 @@
 # web-parts
 
 ## Dofufa Objects
-  + dofufa-chop
-  + dofufa-kbdate
-  + 
+  + https://github.com/dofufa/objects
 
 ## Objects
   + https://developer.mozilla.org/en-US/docs/Web/API/URL/createObjectURL_static
